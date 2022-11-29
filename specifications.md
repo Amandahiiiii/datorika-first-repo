@@ -1,8 +1,10 @@
 # specifikācija
 
 ## Risinājuma apraksts
-*** KNowledge tracker ***
+***Knowledge tracker***
 
 ## Tehniskā specifikācija 
-
+- dokuents
 ## Funkcionalitāte
+-vārdu skaidrojums
++DocLogix
